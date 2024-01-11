@@ -1,0 +1,200 @@
+{
+   "checksum": "390342dbb8f616e8aa6698fa03e29863",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13318169717588888",
+            "date_last_used": "0",
+            "guid": "db42bbae-439e-4ecc-b230-6cdcb36d65b9",
+            "id": "17",
+            "name": "DE_Ch.1-4.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Priya%20Devrani/Desktop/alldata/MSC/sem1/DE/DE_Ch.1-4.pdf"
+         }, {
+            "date_added": "13324933922973650",
+            "date_last_used": "0",
+            "guid": "f4f8357f-08f0-434d-9f11-f628d1c0a666",
+            "id": "18",
+            "name": "Jenkins Tutorial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/jenkins/index.htm"
+         }, {
+            "date_added": "13324933962052967",
+            "date_last_used": "0",
+            "guid": "0b9e6543-d8be-4cd2-848f-0bd39a3538e8",
+            "id": "19",
+            "name": "Jenkins API Using Python - pythonpip.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pythonpip.com/python-tutorials/jenkins-api-using-python/#:~:text=Python%20Jenkins%20is%20a%20python%20wrapper"
+         }, {
+            "date_added": "13324934005660278",
+            "date_last_used": "0",
+            "guid": "96a63dd0-b196-4fac-810c-4de5771040ea",
+            "id": "20",
+            "name": "What is JIRA Software? - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/what-is-jira-software/"
+         }, {
+            "date_added": "13324934017949314",
+            "date_last_used": "0",
+            "guid": "c9dc38d4-db0c-4840-9f16-db63ea9c32b0",
+            "id": "21",
+            "name": "List of useful Github Commands - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/list-useful-github-commands/"
+         }, {
+            "date_added": "13324934025573449",
+            "date_last_used": "0",
+            "guid": "23cf5c67-2d0e-4789-9f56-50b670006972",
+            "id": "22",
+            "name": "GitLab - Git Commands",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/gitlab/gitlab_git_commands.htm"
+         }, {
+            "date_added": "13325098241670458",
+            "date_last_used": "0",
+            "guid": "9adba9d2-81f5-4a75-92c6-a7217008eca6",
+            "id": "23",
+            "name": "Visualizing K-Means Clustering",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"
+         }, {
+            "date_added": "13325098251528414",
+            "date_last_used": "0",
+            "guid": "8dbe34ea-4a90-475a-88b5-169a2b3c9ce9",
+            "id": "24",
+            "name": "K-means clustering, starting with 4 random points in one cluster",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://shabal.in/visuals/kmeans/6.html"
+         }, {
+            "date_added": "13333282518175429",
+            "date_last_used": "0",
+            "guid": "ec23a5d0-f6bd-4dac-ba1f-cb6a3daca381",
+            "id": "25",
+            "name": "Pharmacy Management System Python Source Code - VetBosSel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.vetbossel.in/pharmacy-management-system-python/"
+         }, {
+            "date_added": "13333282530716265",
+            "date_last_used": "0",
+            "guid": "df91d841-1309-469b-9977-eec3cd216799",
+            "id": "26",
+            "name": "Python Source Code Download & Live Demo - Diya Act",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://diyaact.com/python-source-code-download/#google_vignette"
+         }, {
+            "date_added": "13333939764714011",
+            "date_last_used": "0",
+            "guid": "b5780a5b-ca80-42a7-b4fe-d49c55d3cd86",
+            "id": "27",
+            "name": "WhatsApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13338320122786262",
+            "date_last_used": "0",
+            "guid": "0f8b7584-2150-4327-8449-36ee6fb75cd2",
+            "id": "28",
+            "name": "Sign in - Google Accounts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/signin/v2/challenge/pwd?continue=https%3A%2F%2Fdocs.google.com%2F&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&passive=1209600&ifkv=AXo7B7UUYqGKWBJypfq6-jAdIuKXU08TCOXn2yrO10sPjKZzSE4HvW_2Gtnu4yXRE2t9CLEUA3Zzdg&theme=glif&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward&TL=AGEVcSQhBP59946TEjoOOSJHrOLF90eyIa4_hPZNTwGLt5gblEps13o2Z70iA0dW"
+         }, {
+            "date_added": "13348240013674804",
+            "date_last_used": "0",
+            "guid": "10af7b80-64db-4ea4-9b2d-4fc7b788547a",
+            "id": "10",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=NW21C2EF"
+         }, {
+            "date_added": "13348240013674650",
+            "date_last_used": "0",
+            "guid": "e3a134be-6da5-4add-83c8-62cb26f0a630",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13348240013674460",
+            "date_last_used": "0",
+            "guid": "5dc390d7-b046-469e-a105-a6f63f57ab02",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13348240013673265",
+            "date_last_used": "0",
+            "guid": "f7bd62ce-dc21-4dc3-9590-a09bf96afe0b",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13348240013414362",
+         "date_last_used": "0",
+         "date_modified": "13349357297724129",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13348240013414365",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13348240013414367",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJEtT++MAQAAEgAgASoYbk1VeHFxRlJXWWxXUERYV2l5T2tXUT09oAYMEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDVmZWE5N2ZkLTVjZjctNWU4YS1iNDk4LTAxNDRhZDNiOTA3ZBgAIAAoADDJ066TwjA45Nauk8IwQOTWrpPCMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIExKjAQocYVFvSzh1UDRlZW5acFhxNlo0dDh1T3o5eFRZPRIkMGI5ZTY1NDMtZDhiZS00Y2QyLTg0OGYtMGJkMzlhMzUzOGU4GAAgAigCMJeZtPrOMTiuxfWZ9DBA1om0+s4xShwrbENGeGZtQUMycXlWcVNSNnc5T1hFUmdhNUU9Wh8iHak0Z1l2TlJCLzQzVzFZWnJyT2ZteGR4eW8zQ3M9ZXI9aGASqAEIGxKjAQocMHVHTTBENS9hQitBN2JYek5BdVJrQ2pwcmxBPRIkYjU3ODBhNWItY2E4MC00MmE3LWI0ZmUtZDQ5YzU1ZDNjZDg2GAAgAigCMJiZtPrOMTiizeueljFA3Im0+s4xShxnVThZNU9XUVlYSlVldTUxelFzdStIc1dJWkE9Wh8iHf9WenRxOTlnemRiS04rU1VKTEdneGdpSWUrUWM9Zf3WIHISiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOTI0NjUwYzAtNzVlMi01MWEwLTlhZTQtYzRiMGI4NmM3YjY5GAAgACgAMMnTrpPCMDjm1a6TwjBA5tWuk8IwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgSEqIBChxzazFiVG01d1hBdHVLdm1VelE2MzZzUStQcGc9EiRmNGY4MzU3Zi0wOGYwLTQzNGQtOWYxMS1mNjI4ZDFjMGE2NjYYACACKAIwnpm0+s4xOJqU85n0MEDVibT6zjFKHENDeFlMZzd1SnRJenBhTEg3ZkUzTUhwM2ZxND1aHiIcU1lNL0toVmdQdll0OTFoTEdCWEZENVFITWxNPWX5MJe3EqgBCBQSowEKHEhTNi9PK2YzanlXY2VWdDhKNitTYVBWMUdjaz0SJDk2YTYzZGQwLWIxOTYtNGZhYy04MTBjLTRkZTU3NzEwNDBlYRgAIAIoAjCambT6zjE49Z34mfQwQNeJtPrOMUocT0NjenUwc2x2TXU2NmhqbVdkVlJwQlNZQ2w4PVofIh3UY3lHdUxpcE0wS29nb0lVK01XcmxzQlplRm1nPWX4JccIEqgBCBUSowEKHHl6ZzB4SzkxMnF2NFZYcHRkMzY3SE9HMHRsUT0SJGM5ZGMzOGQ0LWRiMGMtNDg0MC05ZjE2LWRiNjNlYTljMzJiMBgAIAIoAjCZmbT6zjE4zPr4mfQwQNiJtPrOMUocYUJ3VU9CT1FBTkpDaW1UUDNGWDc5NVJnWFFRPVofIh3qMFRWdnhrZnJxOUNyaGc4U0RlaXdvcGplQ2ZRPWX4JccIEqgBCBcSowEKHCtROEFsbXZQTG5PV2ZuUVROWmxETjdwV09IRT0SJDlhZGJhOWQyLTgxZjUtNGE3NS05MmM2LWE3MjE3MDA4ZWNhNhgAIAIoAjCcmbT6zjE4i66g6PQwQNmJtPrOMUocV1ZnVExFdVNnMGNiSWFTdDRMSlNWR1NLRkVvPVofIh36bzhiVmpuaUl4ZzJhVUVoMEJZazRjT3h5SVpBPWWVYtH0EokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDAzZTdhYmVkLTc4YTEtNTVlZS04YWMxLTNjYzYxYzJlZjRiMhgAIAAoADDJ066TwjA49tWuk8IwQPbVrpPCMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEIGRKjAQocSi9LVW5RNTkvZ1RGSHptNllPaCtqWU15b1lzPRIkZWMyM2E1ZDAtZjZiZC00ZGFjLWJhMWYtY2I2YTNkYWNhMzgxGAAgAigCMKCZtPrOMTiEwuqmkzFA24m0+s4xShwrWGRydDJ0VFZIdlpvMjFCU0lJcDBIRUxJTXc9Wh8iHf5kd0VPbDVHcjBoTXJseXdLUHFJWXJXZDRBcjQ9ZWMSvUgSqAEIFhKjAQoccUprRmVTZk0zUlJ2L20zTm5Wb1RCZS9uMUlJPRIkMjNjZjVjNjctMmQwZS00Nzg5LTlmNTYtNTBiNjcwMDA2OTcyGAAgAigCMJuZtPrOMTjXtfmZ9DBA2Im0+s4xShxLUmxqalNwUFlIZ09RZ1JURGhGT1R0eFFTdDg9Wh8iHfV2NmpkVVFVRjBycDJ6dEdSRGNiNFFQQ1MzUUk9Zfkwl7cSqAEIGBKjAQocMEt6UWJkcnJDOFFLVWIrbTJQTjVPSnkyMUFJPRIkOGRiZTM0ZWEtNGE5MC00NzVhLTg4YjUtMTY5YTJiM2M5Y2U5GAAgAigCMJ2ZtPrOMTif+6Do9DBA2om0+s4xShxsMXA4cmpyYXU5ZW5ENXJnV09yVER1cG1abkk9Wh8iHf14YkhRWk5TNmVDdUxyd1dLcmNvWXlxdlBVaXM9ZbBeHrgSqQEIHBKkAQocWUcyWDZQakRkdmRNK0pEdEp4b2xRT0dLQlBrPRIkMGY4Yjc1ODQtMjE1MC00MzI3LTg0NDktMzZlZTZmYjc1Y2QyGAAgAigCMKGZtPrOMTiFyfuIpjFA3Ym0+s4xShxkeFpYQVN1Qno5Z3VuZXpodWJTS3JJdVp6S0k9WiAiHv+rT1dHaWtxRWVkM1NQclVGR255Nnh0NVBELzJjPWUQMP/kEqgBCBoSowEKHGNDMXVIYXhIZXB2QXFlNjI1eGxCQ3BqZHRaWT0SJGRmOTFkODQxLTEzMDktNDY5Yi05OTc3LWVlYzNjZDIxNjc5ORgAIAIoAjCfmbT6zjE4gfXqppMxQNuJtPrOMUocbzNNNW9WZTl5U1lVTVg2YWZFRGN4bHVwY1FzPVofIh3/SmIxS2R3bzY0R2dLR1Zsd1FlTTh5dXlzeHVVPWXvMBP6EqcBCBESogEKHFIxcGpuajY3VUVDSi93T2cvVVhod2g4a3ErND0SJGRiNDJiYmFlLTQzOWUtNGVjYy1iMjMwLTZjZGNiMzZkNjViORgAIAAoADChs76F2zA44bO+hdswQOGzvoXbMEocbmhnaUxGUXp4UUF0VktKOG9QNmhRQVlFQzcwPVoeIhwwRUxoeFV0d1NXdmZMWHlvS3doVlNsU3JibWM9ZXdwbKMwADgA",
+   "version": 1
+}
